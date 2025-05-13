@@ -11,3 +11,4 @@ pillow
 pydotplus
 ipympl
 ipywidgets
+Test
